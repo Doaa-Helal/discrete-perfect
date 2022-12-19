@@ -1,0 +1,8 @@
+C:\Users\Doaa Helal\source\repos\prefectnumbers\prefectnumbers\bin\Debug\prefectnumbers.exe.config
+C:\Users\Doaa Helal\source\repos\prefectnumbers\prefectnumbers\bin\Debug\prefectnumbers.exe
+C:\Users\Doaa Helal\source\repos\prefectnumbers\prefectnumbers\bin\Debug\prefectnumbers.pdb
+C:\Users\Doaa Helal\source\repos\prefectnumbers\prefectnumbers\obj\Debug\prefectnumbers.csproj.AssemblyReference.cache
+C:\Users\Doaa Helal\source\repos\prefectnumbers\prefectnumbers\obj\Debug\prefectnumbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\Doaa Helal\source\repos\prefectnumbers\prefectnumbers\obj\Debug\prefectnumbers.csproj.CoreCompileInputs.cache
+C:\Users\Doaa Helal\source\repos\prefectnumbers\prefectnumbers\obj\Debug\prefectnumbers.exe
+C:\Users\Doaa Helal\source\repos\prefectnumbers\prefectnumbers\obj\Debug\prefectnumbers.pdb
